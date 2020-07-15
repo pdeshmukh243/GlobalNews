@@ -1,0 +1,14 @@
+
+.caption-position{
+    bottom: 100px !important;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+          }
